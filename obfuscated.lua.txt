@@ -1,4 +1,4 @@
-local CoreGui = game:GetService("StarterGui") CoreGui:SetCore("SendNotification", { Title = "Script Made By", Text = "analtlol0587_81841", Icon = "rbxassetid://17582945577", Duration = 15, })
+local CoreGui = game:GetService("StarterGui") CoreGui:SetCore("SendNotification", { Title = "Script Made By", Text = "analtlol0587_81841", Icon = "rbxassetid://7550851349", Duration = 15, })
 task.wait(3)
 local CoreGui = game:GetService("StarterGui") CoreGui:SetCore("SendNotification", { Title = "discord", Text = "link copied!", Icon = "rbxassetid://8387379647", Duration = 10, })
 setclipboard("https://discord.gg/UrduxZE8j")
